@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 // BMI CALCULATOR USING INQUIRER REMOTE
 import inquirer from "inquirer";
 const questions = [
